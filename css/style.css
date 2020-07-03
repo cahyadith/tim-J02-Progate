@@ -449,7 +449,12 @@ input {
     display: none;
 }
 
-
+p {
+    color: black;
+    text-align: center;
+    position: relative;
+}
+    
 /* footer */
 
 .footer {
